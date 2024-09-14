@@ -11974,6 +11974,14 @@ a:hover {
   border-radius: 100%;
 }
 
+.skills-icon {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 0 auto;
+}
+
 /* Animation */
 
 .animate__fadeIn {
