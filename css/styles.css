@@ -11989,3 +11989,7 @@ a:hover {
 .animate__fadeIn {
   --animate-duration: 3s;
 }
+
+.exp li {
+  font-size: 18px;
+}
