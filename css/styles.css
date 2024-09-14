@@ -11791,12 +11791,15 @@ html {
 
 .profile {
   position: relative;
-  height: 25vw;
-  width: 25vw;
+  height: 50vw;
+  width: 50vw;
   border-radius: 100%;
   margin-top: 5vw;
   max-height: 40rem;
   max-width: 40rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .profile .profile-img {
   height: 80vw;
@@ -11920,8 +11923,8 @@ html {
 }
 @media (min-width: 1200px) {
   .profile {
-    height: 35vw;
-    width: 35vw;
+    height: 25vw;
+    width: 25vw;
   }
   .profile .profile-img {
     height: 40vw;
@@ -11969,8 +11972,7 @@ a:hover {
 }
 
 .pro-img {
-  width: 45vh;
-  height: 45vh;
+  padding: 100px;
   border-radius: 100%;
 }
 
